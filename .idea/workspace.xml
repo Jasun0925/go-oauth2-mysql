@@ -12,16 +12,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9024c6b4-d012-4d30-b180-fb175bc54749" name="Default Changelist" comment="update package">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generates/authorize.go" beforeDir="false" afterPath="$PROJECT_DIR$/generates/authorize.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generates/jwt_access.go" beforeDir="false" afterPath="$PROJECT_DIR$/generates/jwt_access.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage/manager.go" beforeDir="false" afterPath="$PROJECT_DIR$/manage/manager.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage/util.go" beforeDir="false" afterPath="$PROJECT_DIR$/manage/util.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redis/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/redis/redis.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/server_config.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/server_config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/store/client.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/token.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/token.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/handler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/token.go" beforeDir="false" afterPath="$PROJECT_DIR$/store/token.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +40,18 @@
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/generates/jwt_access.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/generates/authorize.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/store.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/models/client.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/models/token.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/manage/manager.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/manage/config.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/errors/error.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/errors/response.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/generates/uuid_access.go" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="d5okbwj1" />

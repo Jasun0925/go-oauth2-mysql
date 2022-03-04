@@ -4,6 +4,8 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
+	"github.com/Jasun0925/go-oauth2-mysql"
+	"github.com/Jasun0925/go-oauth2-mysql/models"
 	"time"
 
 	"github.com/google/uuid"

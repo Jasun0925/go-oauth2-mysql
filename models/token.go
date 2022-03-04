@@ -1,6 +1,7 @@
 package models
 
 import (
+	"github.com/Jasun0925/go-oauth2-mysql"
 	"time"
 )
 
@@ -29,7 +30,7 @@ type Token struct {
 }
 
 // New create to token model instance
-func (t *Token) New() oauth2.TokenInfo {
+func (t *Token) New() oauth2.TokenStore {
 	return NewToken()
 }
 
