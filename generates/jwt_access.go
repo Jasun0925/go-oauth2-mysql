@@ -3,8 +3,8 @@ package generates
 import (
 	"context"
 	"encoding/base64"
-	"github.com/go-oauth2-mysql"
-	"github.com/go-oauth2-mysql/errors"
+	"github.com/Jasun0925/go-oauth2-mysql"
+	"github.com/Jasun0925/go-oauth2-mysql/errors"
 	"strings"
 	"time"
 

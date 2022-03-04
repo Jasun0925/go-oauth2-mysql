@@ -1,7 +1,7 @@
 package manage
 
 import (
-	"github.com/go-oauth2-mysql/errors"
+	"github.com/Jasun0925/go-oauth2-mysql/errors"
 	"net/url"
 	"strings"
 )

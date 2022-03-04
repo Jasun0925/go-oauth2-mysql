@@ -5,7 +5,6 @@ import (
 	"context"
 	"encoding/base64"
 	"github.com/Jasun0925/go-oauth2-mysql"
-	"github.com/go-oauth2-mysql"
 	"strings"
 
 	"github.com/google/uuid"

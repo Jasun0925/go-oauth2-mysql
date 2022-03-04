@@ -10,22 +10,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9024c6b4-d012-4d30-b180-fb175bc54749" name="Default Changelist" comment="">
+    <list default="true" id="9024c6b4-d012-4d30-b180-fb175bc54749" name="Default Changelist" comment="update package">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/generates/authorize.go" beforeDir="false" afterPath="$PROJECT_DIR$/generates/authorize.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/generates/jwt_access.go" beforeDir="false" afterPath="$PROJECT_DIR$/generates/jwt_access.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generates/uuid_access.go" beforeDir="false" afterPath="$PROJECT_DIR$/generates/uuid_access.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/manage/manager.go" beforeDir="false" afterPath="$PROJECT_DIR$/manage/manager.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/manage/util.go" beforeDir="false" afterPath="$PROJECT_DIR$/manage/util.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/token.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/token.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/redis/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/redis/redis.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/handler.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/server_config.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/server_config.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/store/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/store/client.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/token.go" beforeDir="false" afterPath="$PROJECT_DIR$/store/token.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +37,11 @@
   </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../go" />
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
@@ -59,10 +60,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable..is.expanded" value="false" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="go.autoimport" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +85,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="update package" />
+    <option name="LAST_COMMIT_MESSAGE" value="update package" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>

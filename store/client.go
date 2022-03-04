@@ -5,8 +5,8 @@ import (
 	"database/sql"
 	"errors"
 	"fmt"
-	"github.com/go-oauth2-mysql"
-	"github.com/go-oauth2-mysql/models"
+	"github.com/Jasun0925/go-oauth2-mysql"
+	"github.com/Jasun0925/go-oauth2-mysql/models"
 	"sync"
 )
 
