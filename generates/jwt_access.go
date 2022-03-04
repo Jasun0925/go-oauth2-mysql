@@ -3,11 +3,11 @@ package generates
 import (
 	"context"
 	"encoding/base64"
+	"github.com/go-oauth2-mysql"
+	"github.com/go-oauth2-mysql/errors"
 	"strings"
 	"time"
 
-	"gitee.com/w1134407270/go-oauth2-mysql-v4"
-	"gitee.com/w1134407270/go-oauth2-mysql-v4/errors"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/google/uuid"
 )

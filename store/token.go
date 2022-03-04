@@ -6,8 +6,6 @@ import (
 	"fmt"
 	"time"
 
-	"gitee.com/w1134407270/go-oauth2-mysql-v4"
-	"gitee.com/w1134407270/go-oauth2-mysql-v4/models"
 	"github.com/google/uuid"
 	"github.com/tidwall/buntdb"
 )

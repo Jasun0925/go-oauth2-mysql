@@ -4,9 +4,10 @@ import (
 	"bytes"
 	"context"
 	"encoding/base64"
+	"github.com/Jasun0925/go-oauth2-mysql"
+	"github.com/go-oauth2-mysql"
 	"strings"
 
-	"gitee.com/w1134407270/go-oauth2-mysql-v4"
 	"github.com/google/uuid"
 )
 

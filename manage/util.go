@@ -1,10 +1,9 @@
 package manage
 
 import (
+	"github.com/go-oauth2-mysql/errors"
 	"net/url"
 	"strings"
-
-	"gitee.com/w1134407270/go-oauth2-mysql-v4/errors"
 )
 
 type (

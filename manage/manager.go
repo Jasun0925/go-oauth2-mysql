@@ -3,13 +3,12 @@ package manage
 import (
 	"context"
 	"encoding/json"
+	"github.com/go-oauth2-mysql"
+	"github.com/go-oauth2-mysql/errors"
+	"github.com/go-oauth2-mysql/generates"
+	"github.com/go-oauth2-mysql/models"
 	"golang.org/x/crypto/bcrypt"
 	"time"
-
-	"gitee.com/w1134407270/go-oauth2-mysql-v4"
-	"gitee.com/w1134407270/go-oauth2-mysql-v4/errors"
-	"gitee.com/w1134407270/go-oauth2-mysql-v4/generates"
-	"gitee.com/w1134407270/go-oauth2-mysql-v4/models"
 )
 
 // NewDefaultManager create to default authorization management instance

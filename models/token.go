@@ -2,8 +2,6 @@ package models
 
 import (
 	"time"
-
-	"gitee.com/w1134407270/go-oauth2-mysql-v4"
 )
 
 // NewToken create to token model instance

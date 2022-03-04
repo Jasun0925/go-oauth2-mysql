@@ -3,9 +3,6 @@ package server
 import (
 	"net/http"
 	"time"
-
-	"gitee.com/w1134407270/go-oauth2-mysql-v4"
-	"gitee.com/w1134407270/go-oauth2-mysql-v4/errors"
 )
 
 type (

@@ -4,13 +4,10 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"gitee.com/w1134407270/go-oauth2-mysql-v4"
 	"net/http"
 	"net/url"
 	"strings"
 	"time"
-
-	"gitee.com/w1134407270/go-oauth2-mysql-v4/errors"
 )
 
 // NewDefaultServer create a default authorization server

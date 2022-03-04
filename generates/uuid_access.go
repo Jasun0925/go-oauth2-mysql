@@ -7,7 +7,6 @@ import (
 	"strconv"
 	"strings"
 
-	"gitee.com/w1134407270/go-oauth2-mysql-v4"
 	"github.com/google/uuid"
 )
 

@@ -1,10 +1,9 @@
 package server
 
 import (
+	"github.com/go-oauth2-mysql"
 	"net/http"
 	"time"
-
-	"gitee.com/w1134407270/go-oauth2-mysql-v4"
 )
 
 // Config configuration parameters 配置oauth请求的参数

@@ -3,8 +3,8 @@ package redis
 import (
 	"context"
 	"fmt"
-	"gitee.com/w1134407270/go-oauth2-mysql-v4"
-	"gitee.com/w1134407270/go-oauth2-mysql-v4/models"
+	"github.com/go-oauth2-mysql"
+	"github.com/go-oauth2-mysql/models"
 	"time"
 
 	"github.com/go-redis/redis/v8"
