@@ -41,7 +41,7 @@
 ### Download and install
 
 ```bash
-go get gitee.com/w1134407270/go-oauth2-mysql-v4
+go get github.com/Jasun0925/go-oauth2-mysql
 ```
 
 ### Create file `server.go`

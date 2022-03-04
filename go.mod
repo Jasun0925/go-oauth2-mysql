@@ -1,6 +1,6 @@
-module gitee.com/w1134407270/go-oauth2-mysql-v4
+module github.com/Jasun0925/go-oauth2-mysql
 
-go 1.15
+go 1.18
 
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
